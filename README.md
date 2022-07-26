@@ -8,4 +8,4 @@ This is my implementation of the original BMI calculator app from "The Complete 
 **Please Don't copy any files unless you try first.**
 
 
-![test](https://user-images.githubusercontent.com/47930363/181054334-a8c25642-1b2a-48ad-b02c-756aef2c1c4c.gif)
+![test](https://user-images.githubusercontent.com/47930363/181055270-6bd4772e-23f2-4e43-868e-2b9a9dd26575.gif)
